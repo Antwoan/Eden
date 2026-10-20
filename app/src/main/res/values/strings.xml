@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mythos Rol</string>
+    <string name="nav_chat">Aventura</string>
+    <string name="nav_characters">Personajes</string>
+    <string name="nav_worlds">Mundo &amp; Lore</string>
+    <string name="nav_music">Ambientación</string>
+    <string name="nav_model">Motor IA</string>
+    <string name="nav_memory">Memoria</string>
+    <string name="nav_rules">Sistema &amp; Dados</string>
+</resources>

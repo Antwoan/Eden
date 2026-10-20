@@ -1,0 +1,6 @@
+{
+  "name": "Mythos Rol",
+  "description": "App de rol con IA, generación de mapas e imágenes con Gemini, barra de comandos slash, tiradas de dados integradas con acción, aclaraciones fuera de rol y música ambiental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
